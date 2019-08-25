@@ -5,8 +5,16 @@
 layout: default
 ---
 
-# It works!
+# k0nen.dev
 
-[Link to a sample post]({{ site.baseurl }}{% link _posts/2019-08-24-welcome-to-jekyll.md %})
+## IRL
 
-[Link to an actual post by me]({{ site.baseurl }}{% link _posts/2019-08-24-GitHub-pages.md %})
+[About me]({{ site.baseurl }}{% link _posts/2019-08-25-About-me.md %})
+
+## TIL
+
+### 2019.08.
+
+[GitHub Pages]({{ site.baseurl }}{% link _posts/2019-08-24-GitHub-pages.md %})
+
+### 2019.09.
