@@ -9,7 +9,7 @@ layout: default
 
 ## IRL
 
-[About me]({{ site.baseurl }}{% link _posts/2019-08-25-About-me.md %})
+[About me]({{ site.baseurl }}{% link _posts/2019-08-25-Resume.md %})
 
 ## Posts
 
