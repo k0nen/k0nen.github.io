@@ -7,4 +7,4 @@ layout: default
 
 # k0nen.dev
 
-[About me]({{ site.baseurl }}{% link _posts/2019-08-25-resume.md %})
+[About me]({{ site.baseurl }}{% link _posts/2019-11-13-resume.md %})  
